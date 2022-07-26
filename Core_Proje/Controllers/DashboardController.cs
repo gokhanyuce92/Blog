@@ -12,6 +12,7 @@ namespace Core_Proje.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
     }
